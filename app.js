@@ -1,0 +1,1 @@
+console.log('"Welcome to Java script" from Java Script')
